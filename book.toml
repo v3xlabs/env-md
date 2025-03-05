@@ -14,3 +14,5 @@ copy-fonts = true
 
 [output.html.redirect]
 "/software-design/prometheus.html" = "/software/prometheus.html"
+
+[preprocessor.footnote]
