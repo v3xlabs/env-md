@@ -35,6 +35,6 @@ jobs:
               with:
                 site_id: s_89382ef9d1
                 server: https://edgeserver.dev/api
-                token: ${{ secrets.EDGE_TOKEN }}
+                token: ${{ secrets.EDGE_TOKEN2 }}
                 directory: book
                 context: true
