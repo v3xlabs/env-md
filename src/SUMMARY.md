@@ -22,6 +22,7 @@
     - [OAuth](./software/authentication/oauth.md)
     - [LDAP](./software/authentication/ldap.md)
     - [Radius](./software/authentication/radius.md)
+    - [Authentik](./software/authentication/authentik.md)
 - [Containers](./containers/index.md)
   - [Kubernetes](./containers/k8s/index.md)
     - [RBAC](./containers/k8s/rbac.md)
