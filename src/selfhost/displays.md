@@ -1,3 +1,5 @@
+[github](https://github.com/v3xlabs/mission-control)
+
 # Information Displays
 
 Lets say you wanted to have a display in your office that is on all the time (24/7).

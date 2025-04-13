@@ -1,17 +1,29 @@
 # Summary
 
 - [Welcome to life](./welcome.md)
+
 - [Housekeeping](./housekeeping/index.md)
   - [Dishwashing](./housekeeping/dishwashing.md)
+
 - [Organization](./organization/index.md)
   - [Obsidian](./organization/obsidian/index.md)
+
 - [3D Printing](./3dprinting/index.md)
   - [Gridfinity](./3dprinting/gridfinity.md)
   - [Multiboard](./3dprinting/multiboard.md)
-- [Networking](./networks/index.md)
-  - [Ubiquiti](./networks/ubiquiti.md)
-  - [Home Assistant](./networks/home-assistant.md)
-  - [Information Displays](./networks/information-displays.md)
+
+- [Self-Hosting](./selfhost/index.md)
+  - [Home Assistant](./selfhost/hass.md)
+  - [Authentication](./selfhost/auth/index.md)
+    - [Authentik](./selfhost/auth/authentik.md)
+    - [Keycloak](./selfhost/auth/keycloak.md)
+  - [Headscale](./selfhost/headscale.md)
+  - [Information Displays](./selfhost/displays.md)
+  - [Inventory Tracking](./selfhost/inventory.md)
+  - [Domain Management](./selfhost/domains.md)
+  - [Bookmarking](./selfhost/bookmarking.md)
+  - [Paperless](./selfhost/paperless.md)
+
 - [Software](./software/index.md)
   - [VSCode](./software/vscode.md)
   - [Prometheus](./software/prometheus.md)
@@ -22,7 +34,6 @@
     - [OAuth](./software/authentication/oauth.md)
     - [LDAP](./software/authentication/ldap.md)
     - [Radius](./software/authentication/radius.md)
-    - [Authentik](./software/authentication/authentik.md)
 - [Containers](./containers/index.md)
   - [Kubernetes](./containers/k8s/index.md)
     - [RBAC](./containers/k8s/rbac.md)
