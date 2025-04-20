@@ -27,5 +27,6 @@ When you want to make sure metrics end up looking nice on a grafana dashboard, u
 
 ## OpenTelemetry
 
-Semantic Conventions
-https://opentelemetry.io/docs/concepts/semantic-conventions/
+If you stick to the [OpenTelemetry semantic conventions](https://opentelemetry.io/docs/concepts/semantic-conventions/), you can achieve fancier integrations with some tools (such as Grafana).
+
+This means so long as you name your metrics `http` and have `error` etc you can achieve nice interop.
