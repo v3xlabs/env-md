@@ -28,6 +28,7 @@
   - [VSCode](./software/vscode.md)
   - [Prometheus](./software/prometheus.md)
   - [Configuration](./software/configuration.md)
+  - [Social Media](./software/social.md)
   - [VPN](./software/vpn.md)
   - [Authentication](./software/authentication/index.md)
     - [JWT](./software/authentication/jwt.md)
