@@ -2,18 +2,9 @@
 
 - [Welcome to life](./welcome.md)
 
-- [Housekeeping](./housekeeping/index.md)
-  - [Dishwashing](./housekeeping/dishwashing.md)
-
-- [Organization](./organization/index.md)
-  - [Obsidian](./organization/obsidian/index.md)
-
-- [3D Printing](./3dprinting/index.md)
-  - [Gridfinity](./3dprinting/gridfinity.md)
-  - [Multiboard](./3dprinting/multiboard.md)
-
 - [Self-Hosting](./selfhost/index.md)
-  - [Home Assistant](./selfhost/hass.md)
+  - [Home Assistant](./selfhost/hass/index.md)
+    - [Lighting Layers](./selfhost/hass/light.md)
   - [Authentication](./selfhost/auth/index.md)
     - [Authentik](./selfhost/auth/authentik.md)
     - [Keycloak](./selfhost/auth/keycloak.md)
@@ -39,3 +30,13 @@
   - [Kubernetes](./containers/k8s/index.md)
     - [RBAC](./containers/k8s/rbac.md)
     - [Metrics & Service Monitors](./containers/k8s/metrics.md)
+
+- [3D Printing](./3dprinting/index.md)
+  - [Gridfinity](./3dprinting/gridfinity.md)
+  - [Multiboard](./3dprinting/multiboard.md)
+
+- [Housekeeping](./housekeeping/index.md)
+  - [Dishwashing](./housekeeping/dishwashing.md)
+
+- [Organization](./organization/index.md)
+  - [Obsidian](./organization/obsidian/index.md)
