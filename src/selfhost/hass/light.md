@@ -44,3 +44,7 @@ Stay tuned—I'll report back once there's a working proof of concept and some s
 
 Ideally at some point this becomes a standardized practice within the HomeAssistant software.
 How that will workout, im not sure, but im hopeful.
+
+## Turnkey solutions
+
+Currently looking into [ha-lighting-manager](https://github.com/zachcheatham/ha-lighting-manager).
