@@ -14,6 +14,7 @@
   - [Domain Management](./selfhost/domains.md)
   - [Bookmarking](./selfhost/bookmarking.md)
   - [Paperless](./selfhost/paperless.md)
+  - [Oura Ring](./selfhost/oura.md)
 
 - [Software](./software/index.md)
   - [VSCode](./software/vscode.md)
