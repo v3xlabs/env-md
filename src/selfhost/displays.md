@@ -5,11 +5,13 @@
 Lets say you wanted to have a display in your office that is on all the time (24/7).
 It toggles between maybe grafana dashboards, your favourite webistes, or your own custom content.
 
-## The Setup
+## From Scratch
+
+### The Setup
 
 For hardware you will want a screen (any old TV will do), and a small computer (like a Raspberry Pi or a Dell Optiplex).
 
-## Software
+### Software
 
 Pre-requisites (based on Arch Linux):
 
