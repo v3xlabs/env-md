@@ -71,7 +71,6 @@ if [[ -z $DISPLAY ]] && [[ $(tty) == /dev/tty1 ]]; then
 fi
 ```
 
-
 ## Mission Control
 
 Lets say you have a display that you want to have on all the time.
